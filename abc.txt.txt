@@ -1,2 +1,0 @@
-"hey this is apurv, just teaching git hub to my friend how to add push and commit git 
-thankyou"
